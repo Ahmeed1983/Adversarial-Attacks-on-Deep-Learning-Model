@@ -56,6 +56,21 @@ Adversarial attacks are critical in machine learning and cybersecurity for:
    ```
    pip install -r requirements.txt
    ```
+## Data Resources
+
+To work with the Dog Breed Classifier, you have the option to use the full dataset for comprehensive training or a subset for quicker experiments and testing.
+
+### Full Dataset:
+For those interested in utilizing the complete Stanford Dogs Dataset, it can be downloaded using the following link:
+
+- [Download Full Stanford Dogs Dataset](https://mega.nz/file/8GclxSDb#wrQiLQSvp-iJJuqllMsQnfFq-on-OO0k5IzyzNOyaY4)
+
+### Dataset Subset:
+A subset of the dataset is also available for those who wish to perform quick experiments or have limited computational resources:
+
+- [Download Stanford Dogs Dataset Subset](https://mega.nz/file/xDU2gD5I#83LpT9iUjzUlVy_-6ufHP3wSVHJm_HDsHcCWUBdbdhQ)
+
+Please note that the model's performance can significantly vary depending on the dataset used. It is recommended to use the full dataset for final model evaluations.
 
 ## Data Loading and Preprocessing
 
