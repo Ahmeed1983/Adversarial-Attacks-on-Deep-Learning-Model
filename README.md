@@ -1,9 +1,5 @@
 # Adversarial Attacks on DogBreedClassifier
 
-I encountered a technical issue while trying to access the content of your PDF file. However, I can assist you in creating a table of contents based on the GitHub repository page information you previously shared.
-
-Here's a suggested table of contents for your project's PDF, based on the typical structure of a GitHub `README.md`:
-
 **Table of Contents**
 
 1. **Introduction**
@@ -102,7 +98,7 @@ Adversarial attacks are critical in machine learning and cybersecurity for:
    ```
 ## Data Resources
 
-The Stanford Dogs Dataset is accessible in its complete form as well as in two subsets to suit various computational requirements and experimental scopes.
+The Stanford Dogs Dataset is accessible in its complete form and in two subsets to suit various computational requirements and experimental scopes.
 
 ### Full Stanford Dogs Dataset
 For exhaustive analysis and training, the full dataset is available:
@@ -158,7 +154,7 @@ The Jupyter notebook included in the `notebooks/` directory contains all the cod
 
 ## Conclusion
 
-Through this project, we have contributed to the vital conversation on AI security and robustness. Our investigations into adversarial attacks underscore the need for continued advancements in creating AI systems resilient to such manipulations. The insights from this work aim to inform and inspire the development of more secure, reliable, and ethical AI applications.
+Through this project, I have contributed to the vital conversation on AI security and robustness. Our investigations into adversarial attacks underscore the need for continued advancements in creating AI systems resilient to such manipulations. The insights from this work aim to inform and inspire the development of more secure, reliable, and ethical AI applications.
 
 
 ## FAQ
@@ -173,9 +169,9 @@ Through this project, we have contributed to the vital conversation on AI securi
 **A3:** We've provided download links for two sets of model weights: standard and adversarially trained. Once downloaded, you can load these weights into the DenseNet161 model structure provided in the project's scripts. Detailed instructions for loading the models are included in the "Using the Pre-trained Models" section of the README.
 
 ### Q4: Can I run the project in Google Colab?
-**A4:** Yes, the project is compatible with Google Colab. You can upload the Jupyter notebook provided in the `notebooks/` directory to Colab and follow the instructions within to run the experiments. Just make sure to upload the dataset or model weights as necessary, or modify the paths in the notebook to point to the right locations.
+**A4:** Yes, the project is compatible with Google Colab. You can upload the Jupyter notebook provided in the `notebooks/` directory to Colab and follow the instructions within to run the experiments. Just make sure to upload the dataset or model weights as necessary or modify the paths in the notebook to point to the right locations.
 
 ### Q5: What should I do if I encounter an error while running the project?
-**A5:** First, ensure that you have followed all installation and setup instructions correctly, including installing all dependencies. If the error persists, please document the error message and steps leading to it, and feel free to raise an issue in the GitHub repository for further assistance.
+**A5:** First, ensure you have followed all installation and setup instructions correctly, including installing all dependencies. If the error persists, please document the error message and steps leading to it, and feel free to raise an issue in the GitHub repository for further assistance.
 
 
