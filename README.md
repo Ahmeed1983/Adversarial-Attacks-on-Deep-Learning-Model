@@ -64,11 +64,14 @@ Run the `data_loading_and_preprocessing.py` script located in the `data/` direct
 ## Using the Pre-trained Models
 
 Download the model weights and load them as detailed in the "Using the Pre-trained Dog Breed Classifier Models" section.
-Downloading the Models
--Standard Model Weights:
-        -Dog Breed Classifier Weights - Standard
--Adversarial Training Model Weights:
-        -Dog Breed Classifier Weights - Adversarial
+## Downloading the Models
+
+### Standard Model Weights:
+- [Dog Breed Classifier Weights - Standard](https://mega.nz/file/hf8xAYjQ#VhB_DLv1dWXa5o9KqKuB3y0iHbF3mlf9wMCKVeWUMBA)
+
+### Adversarial Training Model Weights:
+- [Dog Breed Classifier Weights - Adversarial](https://mega.nz/file/QSlkWZiJ#zV5epBI12TtsJ1LnuhVSQYLyE8ArYYRSO7Y-fKUnDts)
+
 
 ## Running the Notebook
 
