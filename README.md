@@ -1,5 +1,49 @@
 # Adversarial Attacks on DogBreedClassifier
 
+I encountered a technical issue while trying to access the content of your PDF file. However, I can assist you in creating a table of contents based on the GitHub repository page information you previously shared.
+
+Here's a suggested table of contents for your project's PDF, based on the typical structure of a GitHub `README.md`:
+
+**Table of Contents**
+
+1. **Introduction**
+    - Overview of the Project
+    - Objectives and Goals
+
+2. **Experiment Description**
+    - Purpose of the Project
+    - Importance of Adversarial Attacks
+
+3. **Motivations**
+    - Addressing Current ML Challenges
+    - The Need for Model Robustness
+
+4. **Environment Setup and Installation**
+    - Prerequisites
+    - Installation Steps
+
+5. **Data Resources**
+    - Full Stanford Dogs Dataset
+    - Dataset Subsets
+        - Original Subset (10 Images per Class)
+        - Enhanced Subset (60 Images per Class)
+
+6. **Data Loading and Preprocessing**
+    - Instructions for Data Preparation
+
+7. **Using the Pre-trained Models**
+    - Standard Model Weights
+    - Adversarially Trained Model Weights
+
+8. **Running the Notebook**
+    - Steps to Execute the Notebook
+
+9. **Conclusion**
+    - Summary and Final Thoughts
+
+10. **FAQ**
+    - Frequently Asked Questions
+
 ## Introduction
 "Adversarial Attacks on DogBreedClassifier" is a comprehensive project focusing on the impact of adversarial attacks on deep learning models. The project employs a DenseNet161-based model trained on the Stanford Dogs Dataset for dog breed classification and investigates the effects of adversarial attacks, specifically the Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD), on the model's performance.
 
@@ -112,6 +156,11 @@ The Jupyter notebook included in the `notebooks/` directory contains all the cod
 5. Execute the cells in sequence to observe the effects of adversarial attacks.
 
 
+## Conclusion
+
+Through this project, we have contributed to the vital conversation on AI security and robustness. Our investigations into adversarial attacks underscore the need for continued advancements in creating AI systems resilient to such manipulations. The insights from this work aim to inform and inspire the development of more secure, reliable, and ethical AI applications.
+
+
 ## FAQ
 
 ### Q1: What is the purpose of this project?
@@ -129,6 +178,4 @@ The Jupyter notebook included in the `notebooks/` directory contains all the cod
 ### Q5: What should I do if I encounter an error while running the project?
 **A5:** First, ensure that you have followed all installation and setup instructions correctly, including installing all dependencies. If the error persists, please document the error message and steps leading to it, and feel free to raise an issue in the GitHub repository for further assistance.
 
-## Conclusion
 
-Through this project, we have contributed to the vital conversation on AI security and robustness. Our investigations into adversarial attacks underscore the need for continued advancements in creating AI systems resilient to such manipulations. The insights from this work aim to inform and inspire the development of more secure, reliable, and ethical AI applications.
