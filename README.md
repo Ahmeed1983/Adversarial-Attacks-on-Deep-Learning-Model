@@ -111,6 +111,24 @@ The Jupyter notebook included in the `notebooks/` directory contains all the cod
 4. Open `AdversarialAttacksonDeepModel.ipynb`.
 5. Execute the cells in sequence to observe the effects of adversarial attacks.
 
+
+## FAQ
+
+### Q1: What is the purpose of this project?
+**A1:** The project aims to demonstrate the impact of adversarial attacks, such as the Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD), on a pre-trained DenseNet161 model used for dog breed classification. It highlights how slight modifications in input data can lead to misclassifications and expose vulnerabilities in neural networks.
+
+### Q2: Do I need to download the entire Stanford Dogs Dataset to use this project?
+**A2:** No, you have options. While the full dataset is available for comprehensive analysis, we also provide two subsets of the dataset. The original subset contains 10 images per class, and the enhanced subset contains 60 images per class. These subsets are suitable for quicker experimentation and testing.
+
+### Q3: How can I use the pre-trained models provided in the project?
+**A3:** We've provided download links for two sets of model weights: standard and adversarially trained. Once downloaded, you can load these weights into the DenseNet161 model structure provided in the project's scripts. Detailed instructions for loading the models are included in the "Using the Pre-trained Models" section of the README.
+
+### Q4: Can I run the project in Google Colab?
+**A4:** Yes, the project is compatible with Google Colab. You can upload the Jupyter notebook provided in the `notebooks/` directory to Colab and follow the instructions within to run the experiments. Just make sure to upload the dataset or model weights as necessary, or modify the paths in the notebook to point to the right locations.
+
+### Q5: What should I do if I encounter an error while running the project?
+**A5:** First, ensure that you have followed all installation and setup instructions correctly, including installing all dependencies. If the error persists, please document the error message and steps leading to it, and feel free to raise an issue in the GitHub repository for further assistance.
+
 ## Conclusion
 
 Through this project, we have contributed to the vital conversation on AI security and robustness. Our investigations into adversarial attacks underscore the need for continued advancements in creating AI systems resilient to such manipulations. The insights from this work aim to inform and inspire the development of more secure, reliable, and ethical AI applications.
