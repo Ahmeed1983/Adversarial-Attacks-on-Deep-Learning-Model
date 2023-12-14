@@ -58,19 +58,26 @@ Adversarial attacks are critical in machine learning and cybersecurity for:
    ```
 ## Data Resources
 
-To work with the Dog Breed Classifier, you have the option to use the full dataset for comprehensive training or a subset for quicker experiments and testing.
+The Stanford Dogs Dataset is accessible in its complete form as well as in two subsets to suit various computational requirements and experimental scopes.
 
-### Full Dataset:
-For those interested in utilizing the complete Stanford Dogs Dataset, it can be downloaded using the following link:
+### Full Stanford Dogs Dataset
+For exhaustive analysis and training, the full dataset is available:
 
 - [Download Full Stanford Dogs Dataset](https://mega.nz/file/8GclxSDb#wrQiLQSvp-iJJuqllMsQnfFq-on-OO0k5IzyzNOyaY4)
 
-### Dataset Subset:
-A subset of the dataset is also available for those who wish to perform quick experiments or have limited computational resources:
+### Dataset Subsets
+Choose between two subsets of the dataset based on your needs:
 
-- [Download Stanford Dogs Dataset Subset](https://mega.nz/file/xDU2gD5I#83LpT9iUjzUlVy_-6ufHP3wSVHJm_HDsHcCWUBdbdhQ)
+#### Original Subset (10 Images per Class)
+Optimized for rapid testing and low-resource scenarios, this subset contains 10 images per class:
 
-Please note that the model's performance can significantly vary depending on the dataset used. It is recommended to use the full dataset for final model evaluations.
+- [Download Original Subset (10 Images/Class)](https://mega.nz/file/xDU2gD5I#83LpT9iUjzUlVy_-6ufHP3wSVHJm_HDsHcCWUBdbdhQ)
+
+#### Enhanced Subset (60 Images per Class)
+For broader experimentation without utilizing the full dataset, this larger subset provides 60 images per class:
+
+- [Download Enhanced Subset (60 Images/Class)](https://mega.nz/file/MfllXAhS#aEXSMA868HcAlgbsqC9hjeRGhr237113tDAA4YDU_0k)
+
 
 ## Data Loading and Preprocessing
 
