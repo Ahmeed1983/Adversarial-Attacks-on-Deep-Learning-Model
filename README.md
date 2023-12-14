@@ -1,7 +1,3 @@
-My apologies for any misunderstanding. I will include the omitted sections and provide instructions on downloading the notebook for execution in the `README.md` file.
-
----
-
 # Adversarial Attacks on DogBreedClassifier
 
 ## Introduction
