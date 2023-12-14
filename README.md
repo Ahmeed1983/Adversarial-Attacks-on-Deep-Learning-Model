@@ -148,8 +148,9 @@ The Jupyter notebook included in the `notebooks/` directory contains all the cod
    ```
    jupyter lab
    ```
-4. Open `AdversarialAttacksonDeepModel.ipynb`.
-5. Execute the cells in sequence to observe the effects of adversarial attacks.
+4. Open `AdversarialAttacksonDeepModel.ipynb` for the full Stanford Dog Image Dataset. OR
+5. Open `AdversarialAttacksonDeepModelSubset.ipynb` for the Subset Stanford Dog Image Dataset.
+6. Execute the cells in sequence to observe the effects of adversarial attacks.
 
 
 ## Conclusion
