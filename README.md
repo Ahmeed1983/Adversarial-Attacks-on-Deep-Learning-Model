@@ -32,6 +32,8 @@ Adversarial attacks are critical in machine learning and cybersecurity for:
 ### Prerequisites
 - Conda environment manager (recommended)
 - Python 3.6 or higher
+- Pytorch
+- Other dependencies listed in 'requirements.txt'
 
 ### Installation Steps
 1. Clone the repository:
@@ -62,6 +64,11 @@ Run the `data_loading_and_preprocessing.py` script located in the `data/` direct
 ## Using the Pre-trained Models
 
 Download the model weights and load them as detailed in the "Using the Pre-trained Dog Breed Classifier Models" section.
+Downloading the Models
+-Standard Model Weights:
+        -Dog Breed Classifier Weights - Standard
+-Adversarial Training Model Weights:
+        -Dog Breed Classifier Weights - Adversarial
 
 ## Running the Notebook
 
